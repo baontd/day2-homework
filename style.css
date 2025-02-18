@@ -12,13 +12,14 @@ body {
     border-radius: 10px;
     width: 100%;
     max-width: 400px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .register-container h2 {
     margin-bottom: 20px;
     text-align: center;
     color: #333;
 }
-.register-container input {
+.form-group input {
     width: 100%;
     padding: 12px;
     margin: 10px 0;
